@@ -1,6 +1,6 @@
 # react-hot-ts
 
-> Demo of React Hot Reloading + TypeScript
+> Demo of React Hot Reloading + TypeScript + MobX for state tracking
 
 ## Install prerequisites
 

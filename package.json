@@ -4,8 +4,13 @@
   "description": "Demo of React Hot Reloading + TypeScript",
   "main": "./dist/bundle.js",
   "dependencies": {
+    "@types/lodash": "^4.14.74",
     "expose-loader": "^0.7.3",
     "html-webpack-plugin": "^2.28.0",
+    "lodash": "^4.17.4",
+    "mobx": "^3.2.2",
+    "mobx-react": "^4.2.2",
+    "mobx-react-devtools": "^4.2.15",
     "node-static": "^0.7.9",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
@@ -13,7 +18,7 @@
   "devDependencies": {
     "@types/html-webpack-plugin": "^2.28.0",
     "@types/node": "^8.0.9",
-    "@types/react": "^15.0.24",
+    "@types/react": "^16.0.5",
     "@types/react-dom": "^15.5.0",
     "@types/react-hot-loader": "^3.0.3",
     "@types/webpack": "^3.0.2",
